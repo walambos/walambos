@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @walambos
 - 👀 I’m interested in the space where neuroscience meets data science.
-- 🌱 I’m currently finishing a Masters of Science in Analytics degree from Villanova Business School.
+- 🌱 I’ve recently completed a Masters of Science in Analytics degree from Villanova Business School (GPA == 3.86)
 - 💞️ I’m looking to collaborate on machine learning as informed by the neural architecture of the human brain.
 - 📫 You can email me at walambos at mac dot com
 
